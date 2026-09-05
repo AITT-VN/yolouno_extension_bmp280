@@ -1,7 +1,7 @@
 from yolo_uno import *
 from machine import SoftI2C
 from micropython import const
-from ustruct import unpack as unp
+from struct import unpack as unp
 
 # Author David Stenwall (david at stenwall.io)
 
